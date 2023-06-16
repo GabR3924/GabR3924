@@ -30,13 +30,13 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 # 📊 GitHub Stats:
-
-<p align="center">
-  <img align="center"m src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabR3924&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>  
-<p/>
   
  <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabR3924&theme=vision-friendly-dark&hide_border=false"/>  
+<p/>
+
+<p align="center">
+  <img align="center"m src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabR3924&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>  
 <p/>
 
 ---
