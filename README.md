@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi👋, I'm Gabriela</h1>
 
+<h4 align="center">Full-Stack dev<h4/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriela-rodriguez-24b4b0214/) 
+  
 # 💫 About Me:
 I love creating new things ⚡<br><br>Turning imagination into reality 🚀
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriela-rodriguez-24b4b0214/) 
 
 
 # 💻 Tech Stack:
