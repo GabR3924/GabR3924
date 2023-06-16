@@ -1,4 +1,4 @@
-<p align="justify"> ### Hi there 👋 </p>
+<p align="center"> ### Hi there 👋 </p>
 # 💫 About Me:
 I love creating new things ⚡<br><br>Turning imagination into reality 🚀
 
