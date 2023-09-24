@@ -4,7 +4,7 @@
 
 <h4 align="center">Software developer💻<h4/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriela-r-24b4b0214) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](gabriela-r-24b4b0214) 
 
 - 🔭 I’m currently working on **React, AWS projects**
 - 🌱 I’m currently learning **Python**
