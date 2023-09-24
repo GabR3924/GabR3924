@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Gabriela</h1>
 
-<img src="https://i.imgur.com/weNbhGZ.png](https://portafoliouno.s3.us-east-2.amazonaws.com/github/Soft.png">
+<img src="https://portafoliouno.s3.us-east-2.amazonaws.com/github/Soft.png">
 
 <h4 align="center">Software developer💻<h4/>
 
