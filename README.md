@@ -1,13 +1,14 @@
 <h1 align="center">Hi👋, I'm Gabriela</h1>
+<img src="[https://i.imgur.com/weNbhGZ.png](https://portafoliouno.s3.us-east-2.amazonaws.com/github/Soft.png)">
 
-<h4 align="center">Full-Stack dev💻<h4/>
+<h4 align="center">Softeare developer💻<h4/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriela-rodriguez-24b4b0214/) 
 
-- 🔭 I’m currently working on **React Native projects**
-- 🌱 I’m currently learning **Kotlin**
+- 🔭 I’m currently working on **React, AWS projects**
+- 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **Web and Mobile projects**
-- 💬 Ask me about **React Native,AWS,linux**
+- 💬 Ask me about **React Native,AWS,linux, Azure**
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%eaab00)  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
