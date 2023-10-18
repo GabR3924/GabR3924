@@ -6,8 +6,8 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-r-24b4b0214/) 
 
-- 🔭 I’m currently working on **React, AWS projects**
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on **React, java, AWS projects**
+- 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **Web and Mobile projects**
 - 💬 Ask me about **React Native,AWS,linux, Azure**
 
